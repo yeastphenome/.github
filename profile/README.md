@@ -1,5 +1,3 @@
-# Yeast Phenome
-
 Yeast Phenome is a collaborative project dedicated to building and maintaining a comprehensive compendium of systematic loss-of-function phenotypes for the budding yeast *Saccharomyces cerevisiae*.
 
 As part of this effort, we systematically track, collect, and annotate all published phenotypic screens utilizing the yeast knock-out collection. We extract the data, standardize their format and structure, and make them readily available for search, download, and analysis. 
